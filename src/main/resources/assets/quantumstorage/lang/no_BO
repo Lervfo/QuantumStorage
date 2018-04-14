@@ -1,0 +1,34 @@
+itemGroup.quantumstorage=Kvante Lagring
+
+tile.quantumstorage.quantum_storage_unit.name=Kvante Lagrings Enhet
+tile.quantumstorage.quantum_tank.name=Kvante Tank
+tile.quantumstorage.quantum_barrel.name=Kvante Tønne
+tile.quantumstorage.crater.name=Tønne Maskin
+tile.quantumstorage.chest_iron.name=Jern Tønne
+tile.quantumstorage.chest_gold.name=Gull Tønne
+tile.quantumstorage.chest_diamond.name=Diamant Tønne
+tile.quantumstorage.quantumcrafter.name=Kvante Crafter
+
+tile.quantumstorage.controller.name=Kontroller
+tile.quantumstorage.trashcan.name=Søppelbøtte
+tile.quantumstorage.trashcanfluid.name=Væske Søppelbøtte
+
+item.quantumstorage.upgrade.render.name=Render Oppgradering
+item.quantumstorage.crate.name=Tønne
+tooltipitem.quantumstorage.upgrade.render=Shift Klikk på DSU for å tillate spesial render
+
+item.quantumstorage.upgrade.void.name=Tomroms Oppgradering
+tooltipitem.quantumstorage.upgrade.void=Shift Klikk på DSU for å tillate sletting av overflødige gjenstander
+
+item.quantumstorage.upgrade.creative.name=Kreativ Oppgradering
+tooltipitem.quantumstorage.upgrade.creative=Shift Klikk På DSU For å fylle DSU med gjeldene gjenstand
+
+item.quantumstorage.upgrade.water.name=Evigvarende vann oppgradering
+tooltipitem.quantumstorage.upgrade.water=Shift Klikk på Kvantetank for å generere vann automatisk
+
+item.quantumstorage.quantumstoragedisk.name=Kvante Lagrings Disk
+item.quantumstorage.quantumstoragediskfluid.name=Kvante Væske Disk
+
+item.quantumstorage.quantum_battery.name=Kvante Batteri
+
+gui.quantumstorage.crafter=Kvante Crafter Oppskrift
